@@ -1,2 +1,2 @@
-# vigenere_cipher
+# Vigenere cipher
 VIgenere cipher, no requirements
